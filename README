@@ -1,0 +1,16 @@
+This project was created by Ben Segal for use on a raspberry pi with 
+sense hat. This project is depent on the sense library written by
+Prof. Greg Silber.
+
+What is this thing?
+Ever played tick tack toe? Good you know the general idea.
+Players take turns moving there color to the desired location
+with the joy stick. When the player is satisfied with their
+choice they tip the device on its side to place it and hand
+off the control to the other player. When the game ends the
+screen will display the victors color if there is one then
+restart. To exit the game a player must "rage quit" by
+flipping the device upside down.
+
+Credit to Kaitlyn Neibert for inspiration, color pallet
+and Tie graphics idea. Without her this project would not exist
